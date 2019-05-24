@@ -3,3 +3,5 @@ ParseAutomata.cabal
 *~
 
 .idea
+out
+*.iml
